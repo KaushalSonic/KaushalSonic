@@ -43,6 +43,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KaushalSonic" alt="Kaushal Kishore" /> </p>
 
+### 🌌 Top Languages 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaushalSonic&layout=donut&bg_color=0A0F0B&title_color=ABD200&text_color=68B587)](https://github.com/KaushalSonic/github-readme-stats)
+
 ### 📊 Profile stats 
 
 [![Kaushal's github stats](https://github-readme-stats.vercel.app/api?username=KaushalSonic&show_icons=true&title_color=ABD200&icon_color=B7D364&text_color=68B587&bg_color=0A0F0B)](https://github.com/KaushalSonic/github-readme-stats) <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KaushalSonic&theme=merko" alt="GitHub Streak" /></a>

@@ -10,7 +10,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 🤔 About Me
--  **Working :**  Frontend Dev Intern @CodersCave :computer: | GCP Cloud :cloud: 
+-  **Working :**  Frontend Dev Intern @AtikinVerse :computer: | GCP Cloud :cloud: 
 -  **Learning :** Frontend Development :zap: | Open-Source :fire:
 -  **Education :** BCA Graduate with 8.02 CGPA :man_student:	
 -  **Hobbies :** Swing Trading :part_alternation_mark: | Music :headphones: | Playing Games :video_game:
